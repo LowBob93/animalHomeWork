@@ -3,7 +3,7 @@ package Animal;
 
 import java.lang.reflect.Array;
 
-public class Main {
+public class MainClass {
 
     public static void main(String[] args) {
         System.out.println("Home Work Lesson 6");
